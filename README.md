@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cristian Barallobre
-- 👀 I’m interested in .NET, C#, JavaScript, Python...
+- 👀 I’m interested mainly in developing web applications using .NET and C#, but open to learn other languages too.
 - 🌱 I’m currently working as a back-end developer
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+- 📫 How to reach me: cristianbarallobrerua@gmail.com
 
 <!---
 Barallobre/Barallobre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
