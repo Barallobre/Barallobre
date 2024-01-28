@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristian Barallobre
-- 👀 I’m interested mainly in developing web applications using .NET and C#, but open to learn other languages too.
+- 👀 I’m interested mainly in developing applications using .NET and C#, but open to learn other languages too.
 - 🌱 I’m currently working as a back-end developer
 - 📫 How to reach me: cristianbarallobrerua@gmail.com
 
